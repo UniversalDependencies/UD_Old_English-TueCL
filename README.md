@@ -1,20 +1,20 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
+This is a small UD treebank of Old English with 100 sentences from ParCorOEv2 (currently on [v3]( https://www.nerthusproject.com/about-us)). 
 
 
 # Introduction
 
-...
+LEMMA and UPOS are taken from the source with minor adaptation. The morphological features are converted from the source annotation with a script to fit the CoNLL-U format. All sentences are manually annotated. Due to its small size, there is no split into different sets.
 
 
 # Acknowledgments
 
-...
+I am grateful to Dr Çağrı Çöltekin for his encouragement and guidance.
 
 ## References
 
-* (citation)
+* Martín Arista, Javier (ed.), Sara Domínguez Barragán, Laura García Fernández, Esaúl Ruíz Narbona, Roberto Torre Alonso & Raquel Vea Escarza (comp.). 2021. ParCorOEv2. *An open access annotated parallel corpus Old English-English*. Nerthus Project, Universidad de La Rioja, www.nerthusproject.com.
 
 
 # Changelog
